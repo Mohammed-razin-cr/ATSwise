@@ -5,15 +5,6 @@
     <b>🚀 AI-Powered Resume Analysis & ATS Optimization Platform</b>
   </p>
 
-  <p align="center">
-    <b>Created by Mohammed Razin CR</b>
-  </p>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-19-blue?logo=react" alt="React 19">
-    <img src="https://img.shields.io/badge/Django-5-green?logo=django" alt="Django 5">
-    <img src="https://img.shields.io/badge/Responsive%20UI-Premium-purple" alt="Responsive premium UI">
-  </p>
   <br>
 </div>
 
@@ -29,9 +20,8 @@
 6. [🏗️ Architecture](#-architecture)
 7. [📁 Project Structure](#-project-structure)
 8. [🎨 UI Showcase](#-ui-showcase)
-9. [📸 Screenshots](#-screenshots)
-10. [💬 Contributing](#-contributing)
-11. [📝 License](#-license)
+9. [💬 Contributing](#-contributing)
+10. [📝 License](#-license)
 
 ---
 
@@ -282,7 +272,6 @@ ATSwise/
 │   │   ├── index.css       # Premium responsive design system
 │   │   └── index.js
 │   └── package.json
-├── screenshot/             # Screenshot assets folder
 ├── .gitignore
 └── README.md
 ```
@@ -297,37 +286,6 @@ Premium responsive UI with:
 - **Beautiful typography with DM Sans and Manrope
 - **Smooth transitions, effects, and accessible motion
 - **Responsive mobile-first design
-
----
-
-## 📸 Screenshots
-
-### Landing Page
-![Welcome Page](screenshot/welcome%20page.png)
-![Landing Feature](screenshot/welcome%20page%20feature.png)
-![Landing Feature 2](screenshot/welcome%20page%20feature2.png)
-
-### Authentication
-![Signup Page](screenshot/signup.png)
-![Signin Page](screenshot/signin.png)
-
-### Dashboard
-![Dashboard](screenshot/dashboard.png)
-
-### Upload & Job Description
-![Resume Upload](screenshot/resume-upload.png)
-![Job Description](screenshot/job-descritpion.png)
-
-### Analysis
-![Resume Analysis](screenshot/resume-analysis.png)
-![Resume Strengths](screenshot/resume-strengths.png)
-![Improvement Suggestions](screenshot/resume-suggestionsToImprove.png)
-![Missing ATS Keywords](screenshot/resume-missingATSKeywords.png)
-![Improve Areas](screenshot/resume-improveAreas.png)
-![Dashboard After Analysis](screenshot/dashboard-after-analysis.png)
-
-### Download
-![Download Resume](screenshot/downloadresume.png)
 
 ---
 
